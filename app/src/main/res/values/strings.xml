@@ -1,0 +1,17 @@
+<resources>
+  <string name="app_name">MySubmissionAPI</string>
+  <string name="search_user">Search User</string>
+  <!-- TODO: Remove or change this placeholder text -->
+  <string name="hello_blank_fragment">Hello blank fragment</string>
+  <string name="fol">Followers</string>
+  <string name="wing">Following</string>
+  <string name="my_location">My Location</string>
+  <string name="my_company">my Company</string>
+  <string name="username">Username</string>
+  <string name="name">name</string>
+  <string name="todo">TODO</string>
+  <string name="my_name">My Name</string>
+  <string name="image_profile_taken_from_api">Image Profile Taken from API</string>
+  <string name="my_username">my username</string>
+  <string name="fav_button">Fav Button</string>
+</resources>
